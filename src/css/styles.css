@@ -18,3 +18,25 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+img {
+  width: 160px;
+}
+
+.small-card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+
+.small-card-flag img {
+  width: 30px;
+}
+
+.small-card-name {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+  margin-left: 15px;
+}
